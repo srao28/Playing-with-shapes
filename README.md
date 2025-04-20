@@ -2,7 +2,8 @@
 
 This is a fun interactive physics playground built with **React** and **Matter.js**. It features colorful, randomized shapes that fall under gravity and can be dragged, thrown, and reset with a single click.
 
-![screenshot](./screenshot.png) <!-- optional: add a screenshot of the app if you want -->
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/26510b1d-99ee-4eef-9680-d618fb0df421" />
+ <!-- optional: add a screenshot of the app if you want -->
 
 ---
 
